@@ -5,7 +5,7 @@ Window Toolkit (AWT) to provide the graphic user interface (or use no GUI at all
 of applet has been available since Java was first created.
 The second type of applets are those based on the Swing class JApplet. Swing applets use the
 Swing classes to provide the GUI. Swing offers a richer and often easier-to-use user interface
-than does the AWT.
+than does the  AWT.
 All applets are subclasses (either directly or indirectly) of Applet. Applets are not stand-alone
 programs. Instead, they run within either a web browser or an applet viewer. The illustrations
 shown in this chapter were created with the standard applet viewer, called appletviewer,
