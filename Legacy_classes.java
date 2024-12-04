@@ -1,4 +1,4 @@
-/*Legacy Classes
+/* Legacy Classes
 Early versions of java.util did not include the Collections Framework. Instead, it
 defined several classes and an interface that provided an ad hoc method of storing objects.
 When collections were added (by J2SE 1.2), several of the original classes were reengineered
