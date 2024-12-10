@@ -1,4 +1,4 @@
-Inheritance
+//Inheritance
 /*In the terminology of Java, a class that is inherited is called a superclass. The class that does
 the inheriting is called a subclass.
 To inherit a class, you simply incorporate the definition of one class into another by using the
