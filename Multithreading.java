@@ -1,4 +1,4 @@
-/*Multithreading
+/* Multithreading
 The Java run-time system depends on threads for many things, and all the class
 libraries are designed with multithreading in mind. In fact, Java uses threads to enable the
 entire environment to be asynchronous. This helps reduce inefficiency by preventing the
