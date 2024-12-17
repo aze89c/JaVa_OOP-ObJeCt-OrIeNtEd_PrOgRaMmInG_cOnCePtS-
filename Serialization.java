@@ -30,7 +30,7 @@ System.out.println("Exception during deserialization: " + e);
 System.exit(0);
 }}}
 class MyClass implements Serializable {
-String s;
+String s ;
 int i;
 double d;
 public MyClass(String s, int i, double d) {
