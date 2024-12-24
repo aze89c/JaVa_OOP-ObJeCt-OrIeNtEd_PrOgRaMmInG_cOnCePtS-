@@ -1,4 +1,5 @@
 // Demonstrate FileInputStream.
+
 import java.io.*;
 class FileInputStreamDemo {
 public static void main(String args[]) throws IOException {
