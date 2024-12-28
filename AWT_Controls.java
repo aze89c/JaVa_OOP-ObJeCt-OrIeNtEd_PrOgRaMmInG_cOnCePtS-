@@ -1,3 +1,4 @@
+
 /*AWT Controls
 It is important to state at the outset that there are two varieties of applets. The first are those
 based directly on the Applet class described in this chapter. These applets use the Abstract
