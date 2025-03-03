@@ -12,10 +12,10 @@ You simply put calls to the methods defined by this class inside
 a synchronized block.
 This is the general form of the synchronized statement:
 synchronized(object) {
-// statements to be synchronized
+/*statements to be synchronized*/
 }
 // This program uses a synchronized block.*/
-class Callme {
+class Callme{
 void call(String msg) {
 System.out.print("[" + msg);
 try {
